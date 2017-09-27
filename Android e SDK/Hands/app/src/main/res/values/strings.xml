@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Hands</string>
+    <string name="google_android_map_api_key">AIzaSyAmtK9ICnyWTkgGeENmjKk7N6bbM07Y5MU</string>
+
+    <string name="st_home">Casa</string>
+    <string name="st_work">Trabalho</string>
+</resources>
